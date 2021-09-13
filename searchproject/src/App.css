@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.text-link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +41,5 @@
     transform: rotate(360deg);
   }
 }
+
+
